@@ -1,6 +1,11 @@
 # the-library
 项目演示见[The Library](https://note.jyhao.top/pdf)
 
+相关技能：
+* nginx autoindex 
+* ajax
+* bootstrap 
+
 重新编写nginx autoindex功能，实现在线图书馆功能。
 
 nginx配置如下：
